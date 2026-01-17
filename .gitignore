@@ -1,0 +1,13 @@
+# Simulation files
+*.vcd
+*.wlf
+*.log
+
+# Tool generated folders
+work/
+sim/
+output/
+
+# OS files
+.DS_Store
+Thumbs.db
